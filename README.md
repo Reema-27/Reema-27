@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reema</h1>
-<h3 align="center">A junior computer science student at Shaqra University</h3>
+<h3 align="center"> A computer science fresh graduate</h3>
 
-- 🌱 I’m currently learning **Flutter framework**
+- 🌱 I’m currently learning **UI/UX**
 
 - 📫 How to reach me **reemafa.alotaibi@gmail.com**
 
